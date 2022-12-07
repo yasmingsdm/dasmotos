@@ -12,4 +12,4 @@ What I've practiced/learned:
 
 
 
-You can check the project ready [here](NOT READY YET
+You can check the project ready [here](https://yasmingsdm.github.io/dasmotos/)
